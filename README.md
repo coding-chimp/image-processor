@@ -1,2 +1,0 @@
-# image-processor
-Begin app
